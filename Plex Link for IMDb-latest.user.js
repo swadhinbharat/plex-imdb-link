@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Plex Link for IMDb
 // @namespace    http://swadh.in/
-// @version      0.1
+// @version      0.2
 // @description  Make the IMDb ranking a button with a link
 // @author       Swadhin Patel
 // @match        http*://raspberrypi.local:32400/web/*
@@ -10,6 +10,8 @@
 // @grant        GM_addStyle
 // @require      https://code.jquery.com/jquery-latest.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js
+// @updateURL    https://github.com/swadhinbharat/plex-imdb-link/raw/main/Plex%20Link%20for%20IMDb-latest.user.js
+// @downloadURL  https://github.com/swadhinbharat/plex-imdb-link/raw/main/Plex%20Link%20for%20IMDb-latest.user.js
 // ==/UserScript==
 
 (function() {
